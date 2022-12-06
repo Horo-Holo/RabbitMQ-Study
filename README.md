@@ -1,1 +1,2 @@
-# RabbitMQ-Study
+### RabbitMQ学习代码
+感觉学的比较浅，之后有机会会深入学习。
